@@ -9,3 +9,12 @@ img, video, audio, iframe, table, form {
   .row{
       margin-bottom: 20px;
   }
+
+
+.social {
+    position: fixed;
+    top: 163px;
+    right: 20px;
+    width: 40px;
+    z-index: 2;
+  }
